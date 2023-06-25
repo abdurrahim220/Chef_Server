@@ -1,0 +1,1812 @@
+[
+  {
+    "id": 27,
+    "country": "Chinese",
+    "catalog_id": "2",
+    "chef_name": "Li Ming",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 18000,
+    "chef_picture": "https://example.com/chef27.jpg",
+    "chef_description": "Li Ming is a skilled Chinese chef who specializes in Sichuan cuisine. He has trained under several master chefs and has won numerous awards for his authentic and flavorful dishes.",
+    "chef_recipes": [
+      {
+        "recipe_name": "Mapo Tofu",
+        "recipe_description": "A classic Sichuan dish made with soft tofu and a spicy, flavorful sauce.",
+        "recipe_image": "https://example.com/recipe58.jpg",
+        "cooking_method": "Stir-frying",
+        "ingredients": [
+          "Tofu",
+          "Ground Pork",
+          "Sichuan Pepper",
+          "Garlic",
+          "Ginger",
+          "Green Onion",
+          "Soy Sauce",
+          "Chili Bean Sauce",
+          "Fermented Black Beans",
+          "Chicken Broth",
+          "Cornstarch"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "recipe_description": "A popular Chinese dish made with chicken, peanuts, and a spicy sauce.",
+        "recipe_image": "https://example.com/recipe59.jpg",
+        "cooking_method": "Stir-frying",
+        "ingredients": [
+          "Chicken",
+          "Peanuts",
+          "Sichuan Pepper",
+          "Garlic",
+          "Ginger",
+          "Green Onion",
+          "Soy Sauce",
+          "Chili Bean Sauce",
+          "Sugar",
+          "Cornstarch"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Hot and Sour Soup",
+        "recipe_description": "A classic Chinese soup made with chicken broth, mushrooms, tofu, and bamboo shoots.",
+        "recipe_image": "https://example.com/recipe60.jpg",
+        "cooking_method": "Boiling",
+        "ingredients": [
+          "Chicken Broth",
+          "Mushrooms",
+          "Tofu",
+          "Bamboo Shoots",
+          "Eggs",
+          "Cornstarch",
+          "Soy Sauce",
+          "Rice Vinegar",
+          "Sesame Oil",
+          "White Pepper",
+          "Green Onion"
+        ],
+        "rating": 4.4
+      }
+    ],
+    "photo_url": "https://example.com/chef27_photo.jpg"
+  },
+  {
+    "id": 8,
+    "chef_name": "Chen Wei",
+    "chef_description": "Chef Chen Wei has been in the culinary industry for over 15 years and specializes in traditional Chinese dishes. He has worked in several high-end restaurants in Beijing and Hong Kong and has won several awards for his exceptional cooking skills.",
+    "chef_picture": "https://example.com/chef-chen-wei.jpg",
+    "country_name": "Chinese",
+    "catalog_id": "2",
+    "years_of_experience": 15,
+    "number_of_recipes": 50,
+    "likes": 500,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Kung Pao Chicken",
+        "cooking_method": "Stir-frying",
+        "ingredients": [
+          "Boneless, skinless chicken breast",
+          "Cornstarch",
+          "Soy sauce",
+          "Rice vinegar",
+          "Sugar",
+          "Garlic",
+          "Ginger",
+          "Dried red chili peppers",
+          "Green onions",
+          "Roasted peanuts"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Hot and Sour Soup",
+        "cooking_method": "Boiling",
+        "ingredients": [
+          "Dried wood ear mushrooms",
+          "Dried shiitake mushrooms",
+          "Bamboo shoots",
+          "Tofu",
+          "Eggs",
+          "Cornstarch",
+          "Chicken broth",
+          "Soy sauce",
+          "Rice vinegar",
+          "White pepper",
+          "Sesame oil",
+          "Green onions"
+        ],
+        "rating": 4.2
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Beijing Fried Rice",
+        "cooking_method": "Stir-frying",
+        "ingredients": [
+          "Cooked white rice",
+          "Eggs",
+          "Green onions",
+          "Peas",
+          "Carrots",
+          "Soy sauce",
+          "Oyster sauce",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "chef_name": "Li Ming",
+    "chef_description": "Chef Li Ming is a renowned chef in China and has been cooking for over 20 years. He specializes in Szechuan cuisine and has won several awards for his exceptional cooking skills. He has also trained several chefs who now work in top restaurants across the country.",
+    "chef_picture": "https://example.com/chef-li-ming.jpg",
+    "country_name": "Chinese",
+    "catalog_id": "2",
+    "years_of_experience": 20,
+    "number_of_recipes": 80,
+    "likes": 750,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Mapo Tofu",
+        "cooking_method": "Stir-frying",
+        "ingredients": [
+          "Soft tofu",
+          "Ground pork",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Sichuan peppercorn",
+          "Chili bean sauce",
+          "Vegetable oil",
+          "Green onions",
+          "Cornstarch",
+          "Water"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Dan Dan Noodles",
+        "cooking_method": "Boiling",
+        "ingredients": [
+          "Chinese wheat noodles",
+          "Ground pork",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Chili oil",
+          "Sichuan peppercorn",
+          "Black vinegar",
+          "Green onions",
+          "Cilantro"
+        ],
+        "rating": 4.4
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Kung Pao Shrimp",
+        "cooking_method": "Stir-frying",
+        "ingredients": [
+          "Shrimp",
+          "Cornstarch",
+          "Soy sauce",
+          "Rice vinegar",
+          "Sugar",
+          "Garlic",
+          "Ginger",
+          "Dried red chili peppers",
+          "Green onions",
+          "Roasted peanuts"
+        ],
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "chef_name": "Zhang Wei",
+    "chef_description": "Chef Zhang Wei is a master of Cantonese cuisine and has over 25 years of experience in the culinary world. He has trained under some of the top chefs in China and has worked in several Michelin-starred restaurants. His dishes are known for their exquisite presentation and balanced flavors.",
+    "chef_picture": "https://example.com/chef-zhang-wei.jpg",
+    "country_name": "Chinese",
+    "catalog_id": "2",
+    "years_of_experience": 25,
+    "number_of_recipes": 100,
+    "likes": 1200,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Sweet and Sour Pork",
+        "cooking_method": "Deep-frying",
+        "ingredients": [
+          "Pork loin",
+          "Egg",
+          "Cornstarch",
+          "Soy sauce",
+          "Vinegar",
+          "Sugar",
+          "Tomato ketchup",
+          "Green onions",
+          "Red bell pepper",
+          "Pineapple chunks",
+          "Vegetable oil"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Hot and Sour Soup",
+        "cooking_method": "Boiling",
+        "ingredients": [
+          "Chicken stock",
+          "Wood ear mushrooms",
+          "Bamboo shoots",
+          "Tofu",
+          "Egg",
+          "Vinegar",
+          "Soy sauce",
+          "Chili oil",
+          "White pepper",
+          "Cornstarch",
+          "Green onions"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "General Tso's Chicken",
+        "cooking_method": "Deep-frying",
+        "ingredients": [
+          "Chicken breast",
+          "Egg",
+          "Cornstarch",
+          "Soy sauce",
+          "Rice vinegar",
+          "Sugar",
+          "Garlic",
+          "Ginger",
+          "Dried red chili peppers",
+          "Green onions",
+          "Sesame seeds",
+          "Vegetable oil"
+        ],
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "chef_name": "Rajesh Kumar",
+    "chef_description": "Chef Rajesh Kumar is a skilled chef who specializes in Indian cuisine. He has over 20 years of experience and has worked in some of the best restaurants in India. His dishes are known for their bold flavors and use of fresh spices.",
+    "chef_picture": "https://example.com/chef-rajesh-kumar.jpg",
+    "country_name": "Indian",
+    "catalog_id": "3",
+    "years_of_experience": 20,
+    "number_of_recipes": 80,
+    "likes": 950,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Butter Chicken",
+        "cooking_method": "Grilling",
+        "ingredients": [
+          "Chicken breast",
+          "Yogurt",
+          "Ginger",
+          "Garlic",
+          "Tomato paste",
+          "Garam masala",
+          "Turmeric",
+          "Cumin",
+          "Chili powder",
+          "Heavy cream",
+          "Butter",
+          "Cilantro",
+          "Basmati rice"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Palak Paneer",
+        "cooking_method": "Boiling",
+        "ingredients": [
+          "Spinach",
+          "Paneer cheese",
+          "Tomato",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Garam masala",
+          "Turmeric",
+          "Cumin",
+          "Chili powder",
+          "Heavy cream",
+          "Butter",
+          "Basmati rice"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Chicken Tikka Masala",
+        "cooking_method": "Grilling",
+        "ingredients": [
+          "Chicken breast",
+          "Yogurt",
+          "Ginger",
+          "Garlic",
+          "Tomato paste",
+          "Garam masala",
+          "Turmeric",
+          "Cumin",
+          "Chili powder",
+          "Heavy cream",
+          "Butter",
+          "Cilantro",
+          "Basmati rice"
+        ],
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "chef_name": "Rahul Khanna",
+    "chef_description": "Chef Rahul Khanna is a master of Indian cuisine, with over 20 years of experience in the culinary arts. He has trained under some of the most renowned chefs in India and his dishes are known for their authentic flavors and exquisite presentation.",
+    "chef_picture": "https://example.com/chef-rahul-khanna.jpg",
+    "country_name": "Indian",
+    "catalog_id": "3",
+    "years_of_experience": 20,
+    "number_of_recipes": 80,
+    "likes": 1050,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Butter Chicken",
+        "cooking_method": "Simmering",
+        "ingredients": [
+          "Chicken breasts",
+          "Tomato",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Cumin",
+          "Coriander",
+          "Turmeric",
+          "Garam masala",
+          "Chili powder",
+          "Cream",
+          "Butter",
+          "Kasuri methi",
+          "Cilantro"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Palak Paneer",
+        "cooking_method": "Simmering",
+        "ingredients": [
+          "Paneer cheese",
+          "Spinach",
+          "Onion",
+          "Tomato",
+          "Garlic",
+          "Ginger",
+          "Cumin",
+          "Coriander",
+          "Turmeric",
+          "Garam masala",
+          "Chili powder",
+          "Cream",
+          "Butter",
+          "Kasuri methi"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Chicken Tikka Masala",
+        "cooking_method": "Grilling",
+        "ingredients": [
+          "Chicken thighs",
+          "Bell pepper",
+          "Onion",
+          "Tomato",
+          "Garlic",
+          "Ginger",
+          "Cumin",
+          "Coriander",
+          "Turmeric",
+          "Garam masala",
+          "Chili powder",
+          "Cream",
+          "Butter",
+          "Kasuri methi",
+          "Cilantro"
+        ],
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "chef_name": "Kamala Devi",
+    "chef_description": "Chef Kamala Devi is a celebrated Indian chef with over 15 years of experience in creating authentic Indian dishes. She is known for her innovative use of spices and herbs, and her passion for showcasing the diversity of Indian cuisine.",
+    "chef_picture": "https://example.com/chef-kamala-devi.jpg",
+    "country_name": "Indian",
+    "catalog_id": "3",
+    "years_of_experience": 15,
+    "number_of_recipes": 60,
+    "likes": 900,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Chana Masala",
+        "cooking_method": "Simmering",
+        "ingredients": [
+          "Chickpeas",
+          "Onion",
+          "Tomato",
+          "Garlic",
+          "Ginger",
+          "Cumin",
+          "Coriander",
+          "Turmeric",
+          "Garam masala",
+          "Chili powder",
+          "Amchur powder",
+          "Cilantro"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Aloo Gobi",
+        "cooking_method": "Stir-frying",
+        "ingredients": [
+          "Potatoes",
+          "Cauliflower",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Cumin",
+          "Coriander",
+          "Turmeric",
+          "Garam masala",
+          "Chili powder",
+          "Cilantro"
+        ],
+        "rating": 4.3
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Biryani",
+        "cooking_method": "Layering",
+        "ingredients": [
+          "Basmati rice",
+          "Chicken",
+          "Onion",
+          "Tomato",
+          "Garlic",
+          "Ginger",
+          "Cumin",
+          "Coriander",
+          "Turmeric",
+          "Garam masala",
+          "Chili powder",
+          "Mint leaves",
+          "Cilantro"
+        ],
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "chef_name": "Fatima Abdallah",
+    "chef_description": "Chef Fatima Abdallah is a talented Mediterranean chef with over 20 years of experience. She grew up in a family of passionate cooks, where she learned to appreciate fresh, healthy ingredients and traditional cooking techniques. Her cuisine is inspired by the flavors of the Mediterranean, with a focus on simplicity and seasonality.",
+    "chef_picture": "https://example.com/chef-fatima-abdallah.jpg",
+    "country_name": "Mediterranean",
+    "catalog_id": "4",
+    "years_of_experience": 20,
+    "number_of_recipes": 80,
+    "likes": 1500,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Hummus",
+        "cooking_method": "Blending",
+        "ingredients": [
+          "Chickpeas",
+          "Tahini",
+          "Garlic",
+          "Lemon juice",
+          "Olive oil",
+          "Cumin",
+          "Salt"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Moussaka",
+        "cooking_method": "Baking",
+        "ingredients": [
+          "Eggplant",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato",
+          "Potato",
+          "Cinnamon",
+          "Allspice",
+          "Nutmeg",
+          "Parmesan cheese",
+          "Béchamel sauce"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Tzatziki",
+        "cooking_method": "Mixing",
+        "ingredients": [
+          "Greek yogurt",
+          "Cucumber",
+          "Garlic",
+          "Lemon juice",
+          "Dill",
+          "Olive oil",
+          "Salt"
+        ],
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "chef_name": "Giuseppe Rossi",
+    "chef_description": "Giuseppe Rossi is a passionate Mediterranean chef who was born and raised in Sicily. He has over 25 years of experience in the culinary industry and has worked in some of the finest restaurants in Italy. His cooking is heavily influenced by the flavors of the Mediterranean, and he has a special love for seafood and pasta dishes.",
+    "chef_picture": "https://example.com/chef-giuseppe-rossi.jpg",
+    "country_name": "Mediterranean",
+    "catalog_id": "4",
+    "years_of_experience": 25,
+    "number_of_recipes": 100,
+    "likes": 2500,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Pasta alla Norma",
+        "cooking_method": "Boiling",
+        "ingredients": [
+          "Pasta",
+          "Eggplant",
+          "Tomato sauce",
+          "Garlic",
+          "Basil",
+          "Ricotta salata",
+          "Olive oil",
+          "Salt"
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Seafood Risotto",
+        "cooking_method": "Simmering",
+        "ingredients": [
+          "Arborio rice",
+          "Shrimp",
+          "Squid",
+          "Mussels",
+          "White wine",
+          "Onion",
+          "Garlic",
+          "Tomato",
+          "Parsley",
+          "Lemon juice",
+          "Olive oil",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Caprese Salad",
+        "cooking_method": "Assembling",
+        "ingredients": [
+          "Tomato",
+          "Mozzarella cheese",
+          "Basil",
+          "Olive oil",
+          "Balsamic vinegar",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "chef_name": "Fatima Al Khouri",
+    "chef_description": "Fatima Al Khouri is a passionate Mediterranean chef who grew up in Beirut, Lebanon. She has over 15 years of experience in the culinary industry and has worked in some of the finest restaurants in the Middle East. Her cooking is heavily influenced by the flavors of the Mediterranean, and she loves to experiment with spices and herbs.",
+    "chef_picture": "https://example.com/chef-fatima-al-khouri.jpg",
+    "country_name": "Mediterranean",
+    "catalog_id": "4",
+    "years_of_experience": 15,
+    "number_of_recipes": 80,
+    "likes": 2000,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Kibbeh Nayyeh",
+        "cooking_method": "Raw",
+        "ingredients": [
+          "Beef",
+          "Bulgur",
+          "Onion",
+          "Mint leaves",
+          "Salt",
+          "Pepper",
+          "Olive oil"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Fattoush Salad",
+        "cooking_method": "Assembling",
+        "ingredients": [
+          "Lettuce",
+          "Tomato",
+          "Cucumber",
+          "Radish",
+          "Green onion",
+          "Parsley",
+          "Mint leaves",
+          "Sumac",
+          "Pomegranate molasses",
+          "Olive oil",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Shakshuka",
+        "cooking_method": "Simmering",
+        "ingredients": [
+          "Tomato",
+          "Bell pepper",
+          "Onion",
+          "Garlic",
+          "Cumin",
+          "Paprika",
+          "Eggs",
+          "Parsley",
+          "Feta cheese",
+          "Olive oil",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "chef_name": "Yara Nassar",
+    "chef_description": "Yara Nassar is a Lebanese chef with over 10 years of experience in the culinary industry. She is passionate about cooking Mediterranean cuisine and loves to experiment with different flavors and ingredients. Yara believes that food should not only be delicious, but also nutritious and healthy.",
+    "chef_picture": "https://example.com/chef-yara-nassar.jpg",
+    "country_name": "Mediterranean",
+    "catalog_id": "4",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 1500,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Lamb Kofta",
+        "cooking_method": "Grilling",
+        "ingredients": [
+          "Ground lamb",
+          "Onion",
+          "Garlic",
+          "Parsley",
+          "Cumin",
+          "Cinnamon",
+          "Allspice",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Baba Ghanoush",
+        "cooking_method": "Roasting",
+        "ingredients": [
+          "Eggplant",
+          "Tahini",
+          "Garlic",
+          "Lemon juice",
+          "Olive oil",
+          "Parsley",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Tabbouleh",
+        "cooking_method": "Chopping",
+        "ingredients": [
+          "Parsley",
+          "Tomato",
+          "Onion",
+          "Bulgur",
+          "Mint leaves",
+          "Lemon juice",
+          "Olive oil",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "chef_name": "Nadia Ali",
+    "chef_description": "Nadia Ali is a Tunisian chef who specializes in Tunisian and Moroccan cuisine. She has been in the culinary industry for over 15 years and loves to share her passion for Mediterranean flavors and spices with others. Nadia believes that cooking is an art and strives to create beautiful and delicious dishes for her clients.",
+    "chef_picture": "https://example.com/chef-nadia-ali.jpg",
+    "country_name": "Mediterranean",
+    "catalog_id": "4",
+    "years_of_experience": 15,
+    "number_of_recipes": 70,
+    "likes": 2200,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Couscous",
+        "cooking_method": "Steaming",
+        "ingredients": [
+          "Couscous",
+          "Chicken",
+          "Onion",
+          "Carrots",
+          "Chickpeas",
+          "Raisins",
+          "Cinnamon",
+          "Cumin",
+          "Coriander",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Harira",
+        "cooking_method": "Simmering",
+        "ingredients": [
+          "Lamb",
+          "Onion",
+          "Garlic",
+          "Tomatoes",
+          "Lentils",
+          "Chickpeas",
+          "Cilantro",
+          "Parsley",
+          "Cumin",
+          "Turmeric",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Tagine",
+        "cooking_method": "Braising",
+        "ingredients": [
+          "Lamb",
+          "Prunes",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Cinnamon",
+          "Cumin",
+          "Paprika",
+          "Chicken broth",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "chef_name": "Nadia Ali",
+    "chef_description": "Nadia Ali is a Tunisian chef who specializes in Tunisian and Moroccan cuisine. She has been in the culinary industry for over 15 years and loves to share her passion for Mediterranean flavors and spices with others. Nadia believes that cooking is an art and strives to create beautiful and delicious dishes for her clients.",
+    "chef_picture": "https://example.com/chef-nadia-ali.jpg",
+    "country_name": "Mediterranean",
+    "catalog_id": "4",
+    "years_of_experience": 15,
+    "number_of_recipes": 70,
+    "likes": 2200,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Couscous",
+        "cooking_method": "Steaming",
+        "ingredients": [
+          "Couscous",
+          "Chicken",
+          "Onion",
+          "Carrots",
+          "Chickpeas",
+          "Raisins",
+          "Cinnamon",
+          "Cumin",
+          "Coriander",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Harira",
+        "cooking_method": "Simmering",
+        "ingredients": [
+          "Lamb",
+          "Onion",
+          "Garlic",
+          "Tomatoes",
+          "Lentils",
+          "Chickpeas",
+          "Cilantro",
+          "Parsley",
+          "Cumin",
+          "Turmeric",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Tagine",
+        "cooking_method": "Braising",
+        "ingredients": [
+          "Lamb",
+          "Prunes",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Cinnamon",
+          "Cumin",
+          "Paprika",
+          "Chicken broth",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "chef_name": "Sophia Papadopoulos",
+    "chef_description": "Sophia Papadopoulos is a Greek chef who has been cooking traditional Mediterranean cuisine for over 20 years. She is passionate about using fresh, local ingredients in her dishes and loves to experiment with new flavors and ingredients. Sophia's cooking style is a blend of classic Greek recipes with a modern twist.",
+    "chef_picture": "https://example.com/chef-sophia-papadopoulos.jpg",
+    "country_name": "Mediterranean",
+    "catalog_id": "4",
+    "years_of_experience": 20,
+    "number_of_recipes": 90,
+    "likes": 3500,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Moussaka",
+        "cooking_method": "Baking",
+        "ingredients": [
+          "Eggplant",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomatoes",
+          "Potatoes",
+          "Parmesan cheese",
+          "Cinnamon",
+          "Nutmeg",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Spanakopita",
+        "cooking_method": "Baking",
+        "ingredients": [
+          "Spinach",
+          "Feta cheese",
+          "Phyllo dough",
+          "Onion",
+          "Garlic",
+          "Butter",
+          "Eggs",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Tzatziki",
+        "cooking_method": "Mixing",
+        "ingredients": [
+          "Greek yogurt",
+          "Cucumber",
+          "Garlic",
+          "Dill",
+          "Lemon juice",
+          "Olive oil",
+          "Salt",
+          "Pepper"
+        ],
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "chef_name": "Chakriya Wongsuwan",
+    "chef_description": "Chakriya Wongsuwan is a highly experienced chef with over 25 years of experience in preparing traditional Thai cuisine. He specializes in creating dishes that are not only delicious but also visually appealing. Chakriya is known for his attention to detail and his commitment to using only the freshest ingredients available.",
+    "chef_picture": "https://example.com/chef-chakriya-wongsuwan.jpg",
+    "country_name": "Thai",
+    "catalog_id": "5",
+    "years_of_experience": 25,
+    "number_of_recipes": 110,
+    "likes": 4000,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Tom Yum Soup",
+        "cooking_method": "Boiling",
+        "ingredients": [
+          "Shrimp",
+          "Lemongrass",
+          "Galangal",
+          "Kaffir lime leaves",
+          "Fish sauce",
+          "Lime juice",
+          "Chili peppers",
+          "Mushrooms",
+          "Onion",
+          "Cilantro"
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Pad Thai",
+        "cooking_method": "Stir-frying",
+        "ingredients": [
+          "Rice noodles",
+          "Shrimp",
+          "Tofu",
+          "Eggs",
+          "Bean sprouts",
+          "Garlic",
+          "Fish sauce",
+          "Tamarind paste",
+          "Palm sugar",
+          "Lime",
+          "Peanuts",
+          "Cilantro"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Green Curry",
+        "cooking_method": "Simmering",
+        "ingredients": [
+          "Chicken",
+          "Coconut milk",
+          "Green curry paste",
+          "Bamboo shoots",
+          "Eggplant",
+          "Bell peppers",
+          "Thai basil",
+          "Fish sauce",
+          "Palm sugar"
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "chef_name": "Sarochinee Tiptaradol",
+    "chef_description": "Sarochinee Tiptaradol is a talented chef who specializes in traditional Thai cuisine. She has over 15 years of experience working in some of the finest restaurants in Bangkok, and she is known for her innovative approach to cooking.",
+    "years_of_experience": 15,
+    "country": "Thai",
+    "catalog_id": "5",
+    "photo_url": "https://example.com/sarochinee_tiptaradol.jpg",
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Tom Yum Soup",
+        "cooking_method": "Boil the shrimp stock, then add the lemongrass, galangal, and kaffir lime leaves. After that, add the shrimp, mushrooms, fish sauce, and lime juice. Finally, garnish with cilantro leaves and serve hot.",
+        "ingredients": [
+          "Shrimp stock",
+          "Lemongrass",
+          "Galangal",
+          "Kaffir lime leaves",
+          "Shrimp",
+          "Mushrooms",
+          "Fish sauce",
+          "Lime juice",
+          "Cilantro leaves"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Pad Thai",
+        "cooking_method": "Soak the rice noodles in water for 30 minutes, then fry the garlic and shallots until golden brown. Add the chicken and stir-fry until cooked, then add the shrimp and cook until pink. After that, add the noodles, bean sprouts, tamarind paste, fish sauce, and sugar. Stir-fry until everything is mixed well, then add the eggs and stir-fry for another minute. Finally, garnish with peanuts, cilantro, and lime wedges and serve hot.",
+        "ingredients": [
+          "Rice noodles",
+          "Garlic",
+          "Shallots",
+          "Chicken",
+          "Shrimp",
+          "Bean sprouts",
+          "Tamarind paste",
+          "Fish sauce",
+          "Sugar",
+          "Eggs",
+          "Peanuts",
+          "Cilantro",
+          "Lime wedges"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Green Curry",
+        "cooking_method": "Mix the curry paste with coconut milk, then bring to a boil. Add the chicken and stir-fry until cooked, then add the eggplant and cook until tender. After that, add the bamboo shoots, green beans, fish sauce, and sugar. Stir-fry until everything is mixed well, then add the basil leaves and stir-fry for another minute. Finally, serve hot with rice.",
+        "ingredients": [
+          "Green curry paste",
+          "Coconut milk",
+          "Chicken",
+          "Eggplant",
+          "Bamboo shoots",
+          "Green beans",
+          "Fish sauce",
+          "Sugar",
+          "Basil leaves"
+        ],
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "chef_name": "Takashi Matsui",
+    "chef_description": "Takashi Matsui is a well-known chef in Japan, with over 15 years of experience in the culinary industry. He is known for his unique fusion of traditional Japanese dishes with modern cooking techniques.",
+    "country": "Japanese",
+    "catalog_id": "6",
+    "photo_url": "https://example.com/takashi-matsui.jpg",
+    "years_of_experience": 15,
+    "chef_recipes": [
+      {
+        "recipe_name": "Sushi Rolls",
+        "cooking_method": "Boiling, Frying, Baking",
+        "ingredients": "Rice, Nori, Raw Fish, Vegetables",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Ramen Noodles",
+        "cooking_method": "Boiling, Stir-frying",
+        "ingredients": "Noodles, Pork, Vegetables, Soy Sauce",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tempura",
+        "cooking_method": "Frying",
+        "ingredients": "Seafood, Vegetables, Batter",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "chef_name": "Nathaphat Saengsawang",
+    "chef_description": "Nathaphat Saengsawang is a renowned chef from Thailand, with over 10 years of experience in the culinary industry. He is known for his bold and vibrant flavors, and his ability to combine traditional Thai ingredients with modern cooking techniques.",
+    "country": "Thai",
+    "catalog_id": "5",
+    "photo_url": "https://example.com/nathaphat-saengsawang.jpg",
+    "years_of_experience": 10,
+    "chef_recipes": [
+      {
+        "recipe_name": "Tom Yum Soup",
+        "cooking_method": "Boiling",
+        "ingredients": "Lemongrass, Galangal, Kaffir Lime Leaves, Chili Paste, Shrimp, Mushrooms",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Pad Thai",
+        "cooking_method": "Stir-frying",
+        "ingredients": "Rice Noodles, Shrimp, Tofu, Bean Sprouts, Peanuts",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Green Curry",
+        "cooking_method": "Simmering",
+        "ingredients": "Green Curry Paste, Coconut Milk, Chicken, Eggplant, Basil Leaves",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "chef_name": "Pichaya Utharntharm",
+    "chef_description": "Pichaya Utharntharm is a celebrated Thai chef who has won numerous awards for her innovative and authentic Thai cuisine. With over 15 years of experience in the culinary industry, she is known for her unique take on traditional Thai dishes, and her ability to combine different flavors and textures.",
+    "country": "Thai",
+    "catalog_id": "5",
+    "photo_url": "https://example.com/pichaya-utharntharm.jpg",
+    "years_of_experience": 15,
+    "chef_recipes": [
+      {
+        "recipe_name": "Green Papaya Salad",
+        "cooking_method": "Pounding",
+        "ingredients": "Green Papaya, Tomatoes, Lime Juice, Fish Sauce, Peanuts",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Massaman Curry",
+        "cooking_method": "Stewing",
+        "ingredients": "Beef, Potatoes, Onions, Peanuts, Tamarind Paste",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Khao Soi",
+        "cooking_method": "Boiling, Frying",
+        "ingredients": "Egg Noodles, Chicken, Coconut Milk, Curry Paste, Pickled Mustard Greens",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "chef_name": "Jet Tila",
+    "chef_description": "Jet Tila is a well-known Thai-American chef who has been featured on numerous cooking shows and competitions. With over 25 years of experience in the culinary industry, he has become a leading authority on Thai cuisine, and is known for his innovative take on traditional dishes.",
+    "country": "Thai",
+    "catalog_id": "5",
+    "photo_url": "https://example.com/jet-tila.jpg",
+    "years_of_experience": 25,
+    "chef_recipes": [
+      {
+        "recipe_name": "Pad Thai",
+        "cooking_method": "Stir-frying",
+        "ingredients": "Rice Noodles, Shrimp, Tofu, Bean Sprouts, Scallions",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Tom Yum Soup",
+        "cooking_method": "Boiling",
+        "ingredients": "Shrimp, Lemongrass, Kaffir Lime Leaves, Galangal, Chili Peppers",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Green Curry",
+        "cooking_method": "Simmering",
+        "ingredients": "Chicken, Coconut Milk, Thai Basil, Green Chili Peppers, Kaffir Lime Leaves",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chef_name": "Andy Ricker",
+    "chef_description": "Andy Ricker is a celebrated chef and restaurateur who is known for his expertise in Thai cuisine. He has spent years traveling to Thailand and studying its food culture, and has brought that knowledge to his restaurants in the United States. His dishes are known for their bold and complex flavors.",
+    "country": "Thai",
+    "catalog_id": "5",
+    "photo_url": "https://example.com/andy-ricker.jpg",
+    "years_of_experience": 20,
+    "chef_recipes": [
+      {
+        "recipe_name": "Khao Soi",
+        "cooking_method": "Boiling, Frying",
+        "ingredients": "Egg Noodles, Chicken, Coconut Milk, Curry Paste, Shallots, Cilantro",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Pad Kra Pao",
+        "cooking_method": "Stir-frying",
+        "ingredients": "Ground Pork, Holy Basil, Fish Sauce, Garlic, Thai Chili Peppers",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Som Tam",
+        "cooking_method": "Pounding, Mixing",
+        "ingredients": "Green Papaya, Cherry Tomatoes, Lime Juice, Fish Sauce, Peanuts",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "chef_name": "Jiro Ono",
+    "chef_description": "Jiro Ono is a legendary sushi chef and the owner of Sukiyabashi Jiro, a three-Michelin-starred restaurant in Tokyo. He has spent his entire life perfecting his craft, and his dedication and attention to detail have made him one of the most respected chefs in the world.",
+    "country": "Japanese",
+    "catalog_id": "6",
+    "photo_url": "https://example.com/jiro-ono.jpg",
+    "years_of_experience": 70,
+    "chef_recipes": [
+      {
+        "recipe_name": "Sushi",
+        "cooking_method": "Raw",
+        "ingredients": "Fish, Rice, Soy Sauce, Wasabi",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Tempura",
+        "cooking_method": "Deep-frying",
+        "ingredients": "Shrimp, Vegetables, Flour, Egg, Panko Bread Crumbs",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Miso Soup",
+        "cooking_method": "Boiling",
+        "ingredients": "Dashi, Miso Paste, Tofu, Green Onions",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "chef_name": "Jiro Ono",
+    "chef_description": "Jiro Ono is a legendary sushi chef and the owner of Sukiyabashi Jiro, a three-Michelin-starred restaurant in Tokyo. He has spent his entire life perfecting his craft, and his dedication and attention to detail have made him one of the most respected chefs in the world.",
+    "country": "Japanese",
+    "catalog_id": "6",
+    "photo_url": "https://example.com/jiro-ono.jpg",
+    "years_of_experience": 70,
+    "chef_recipes": [
+      {
+        "recipe_name": "Sushi",
+        "cooking_method": "Raw",
+        "ingredients": "Fish, Rice, Soy Sauce, Wasabi",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Tempura",
+        "cooking_method": "Deep-frying",
+        "ingredients": "Shrimp, Vegetables, Flour, Egg, Panko Bread Crumbs",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Miso Soup",
+        "cooking_method": "Boiling",
+        "ingredients": "Dashi, Miso Paste, Tofu, Green Onions",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "chef_name": "Masaharu Morimoto",
+    "chef_description": "Masaharu Morimoto is a celebrity chef and restaurateur who is best known for his appearances on Iron Chef and Iron Chef America. He has also written several cookbooks and opened numerous successful restaurants around the world. Morimoto's cuisine is a fusion of traditional Japanese flavors and modern techniques.",
+    "country": "Japanese",
+    "catalog_id": "6",
+    "photo_url": "https://example.com/masaharu-morimoto.jpg",
+    "years_of_experience": 40,
+    "chef_recipes": [
+      {
+        "recipe_name": "Tuna Tataki",
+        "cooking_method": "Seared",
+        "ingredients": "Tuna, Soy Sauce, Mirin, Scallions, Ginger",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Soba Noodle Soup",
+        "cooking_method": "Boiling",
+        "ingredients": "Soba Noodles, Dashi, Soy Sauce, Mirin, Scallions, Wasabi",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Gyoza",
+        "cooking_method": "Pan-frying",
+        "ingredients": "Pork, Cabbage, Garlic, Ginger, Soy Sauce, Rice Vinegar, Sesame Oil",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "chef_name": "Yui Nakamura",
+    "chef_description": "Yui Nakamura is a highly skilled Japanese chef with over 15 years of experience in preparing traditional Japanese cuisine. She learned the art of cooking from her grandmother and has since perfected her skills by working in various prestigious restaurants in Tokyo. Her passion for cooking and dedication to detail make her dishes stand out from the rest.",
+    "country": "Japanese",
+    "catalog_id": "6",
+    "chef_picture": "https://example.com/japanese-chef-yui-nakamura.jpg",
+    "years_of_experience": 15,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Sushi Rolls",
+        "cooking_method": "Boiling, steaming, and frying",
+        "ingredients": [
+          "Sushi rice",
+          "Nori seaweed",
+          "Assorted fish",
+          "Wasabi",
+          "Soy sauce"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Ramen",
+        "cooking_method": "Boiling",
+        "ingredients": [
+          "Ramen noodles",
+          "Chicken broth",
+          "Pork belly",
+          "Egg",
+          "Green onions"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Tempura",
+        "cooking_method": "Frying",
+        "ingredients": [
+          "Prawns",
+          "Vegetables",
+          "Tempura batter mix",
+          "Soy sauce",
+          "Tentsuyu dipping sauce"
+        ],
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "chef_name": "Satoshi Nakamoto",
+    "chef_description": "Satoshi Nakamoto is a highly skilled Japanese chef who has worked in top restaurants across Tokyo and Kyoto. He specializes in traditional Japanese cuisine and is known for his exceptional knife skills.",
+    "country": "Japanese",
+    "catalog_id": "6",
+    "experience": "15 years",
+    "photo_url": "https://example.com/chef/satoshi-nakamoto.jpg",
+    "chef_recipes": [
+      {
+        "recipe_name": "Sushi Rolls",
+        "cooking_method": "Boil, simmer, fry",
+        "ingredients": "Rice, Nori, Tuna, Salmon, Cucumber, Avocado, Soy sauce",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Tempura",
+        "cooking_method": "Deep-fry",
+        "ingredients": "Shrimp, Squid, Sweet Potato, Flour, Egg, Soy sauce",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Ramen",
+        "cooking_method": "Boil",
+        "ingredients": "Noodles, Pork Belly, Bamboo Shoots, Soy Sauce, Garlic, Onion, Seaweed",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": "japanese_chef_01",
+    "chef_name": "Takumi Nakamura",
+    "chef_description": "Takumi Nakamura is a highly skilled Japanese chef with over 15 years of experience in traditional Japanese cuisine. He has worked in top-rated restaurants in Tokyo and has won numerous awards for his exceptional skills and creativity. Takumi specializes in sushi and sashimi, but he is also skilled in other Japanese dishes like tempura, yakitori, and ramen.",
+    "country": "Japanese",
+    "catalog_id": "6",
+    "photo_url": "https://example.com/takumi_nakamura.jpg",
+    "years_of_experience": 15,
+    "chef_recipes": [
+      {
+        "recipe_id": "japanese_chef_01_recipe_01",
+        "recipe_name": "Tuna Sashimi",
+        "cooking_method": "Sashimi",
+        "ingredients": [
+          "Tuna",
+          "Soy sauce",
+          "Wasabi",
+          "Pickled ginger"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": "japanese_chef_01_recipe_02",
+        "recipe_name": "Tempura Shrimp",
+        "cooking_method": "Tempura",
+        "ingredients": [
+          "Shrimp",
+          "Tempura batter",
+          "Oil",
+          "Salt"
+        ],
+        "rating": 4.2
+      },
+      {
+        "recipe_id": "japanese_chef_01_recipe_03",
+        "recipe_name": "Yakitori Chicken",
+        "cooking_method": "Grilling",
+        "ingredients": [
+          "Chicken thigh",
+          "Soy sauce",
+          "Sake",
+          "Sugar"
+        ],
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "italian-chef-1",
+    "chef_name": "Giovanni Rossi",
+    "chef_description": "Chef Giovanni is a native Italian and has over 15 years of experience in Italian cuisine. He has worked in various restaurants in Italy and around the world. He specializes in making traditional Italian pasta dishes and pizzas.",
+    "country": "Italian",
+    "catalog_id": "7",
+    "photo_url": "https://example.com/chef/giovanni-rossi.jpg",
+    "years_of_experience": 15,
+    "chef_recipes": [
+      {
+        "recipe_name": "Spaghetti alla Carbonara",
+        "cooking_method": "Boil spaghetti in salted water, fry pancetta and garlic, mix eggs, Parmesan cheese and pepper, add pasta and pancetta, stir well.",
+        "ingredients": [
+          "Spaghetti",
+          "Pancetta",
+          "Eggs",
+          "Parmesan cheese",
+          "Garlic",
+          "Pepper"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "cooking_method": "Preheat oven to 500°F, roll out pizza dough, spread tomato sauce, add mozzarella cheese, drizzle olive oil, bake for 10-12 minutes.",
+        "ingredients": [
+          "Pizza dough",
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Olive oil"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Lasagna",
+        "cooking_method": "Boil lasagna sheets, make meat sauce with tomato sauce, beef, and spices, make béchamel sauce, layer pasta, meat sauce, and béchamel sauce, bake for 30-40 minutes.",
+        "ingredients": [
+          "Lasagna sheets",
+          "Tomato sauce",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Béchamel sauce"
+        ],
+        "rating": 4.9
+      }
+    ],
+    "number_of_recipes": 3,
+    "likes": 210
+  },
+  {
+    "id": 13,
+    "chef_name": "Marco Rossi",
+    "chef_description": "Chef Marco Rossi is a renowned Italian chef who has been cooking for over 20 years. He learned the art of Italian cuisine from his grandmother, who taught him how to make traditional pasta dishes and sauces. Chef Marco has worked in many famous Italian restaurants and has won numerous awards for his cooking.",
+    "experience": "20+ years",
+    "country": "Italian",
+    "catalog_id": "6",
+    "photo_url": "https://example.com/marco-rossi.jpg",
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Carbonara",
+        "cooking_method": "Boil spaghetti until al dente. In a separate pan, cook diced pancetta until crispy. In a bowl, mix eggs, grated Parmesan cheese, and black pepper. Drain spaghetti and add to the pan with pancetta. Remove from heat and add the egg mixture. Toss until the eggs are cooked and the sauce is creamy.",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "Parmesan cheese",
+          "black pepper"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Margherita Pizza",
+        "cooking_method": "Preheat the oven to 450°F. Roll out the pizza dough and spread tomato sauce over it. Add slices of fresh mozzarella cheese and sprinkle with fresh basil. Bake in the oven for 10-15 minutes or until the crust is golden brown.",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "fresh mozzarella cheese",
+          "fresh basil"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Tiramisu",
+        "cooking_method": "Mix together egg yolks and sugar until pale and thick. Add mascarpone cheese and mix until smooth. In a separate bowl, beat egg whites until stiff peaks form. Fold egg whites into the mascarpone mixture. Layer ladyfingers and the mascarpone mixture in a baking dish. Refrigerate for at least 2 hours. Before serving, dust with cocoa powder.",
+        "ingredients": [
+          "egg yolks",
+          "sugar",
+          "mascarpone cheese",
+          "egg whites",
+          "ladyfingers",
+          "cocoa powder"
+        ],
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chef_name": "Fatima Ali",
+    "chef_description": "Fatima Ali is a passionate chef from Ghana, West Africa. She grew up learning traditional cooking techniques from her mother and grandmother, and now shares her love for African cuisine with the world.",
+    "years_of_experience": 10,
+    "country": "African",
+    "catalog_id": "8",
+    "photo_url": "https://example.com/fatima_ali.jpg",
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Jollof Rice",
+        "cooking_method": "Boiling, simmering",
+        "ingredients": "Rice, tomatoes, onions, peppers, spices",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Egusi Soup",
+        "cooking_method": "Stewing",
+        "ingredients": "Melon seeds, meat or fish, vegetables, spices",
+        "rating": 4.2
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Pounded Yam",
+        "cooking_method": "Pounding, boiling",
+        "ingredients": "Yam, water",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chef_name": "Adama Diallo",
+    "chef_description": "Adama is a chef who has been creating African cuisine for over 15 years. She was born and raised in Senegal and has a deep passion for sharing the flavors and traditions of her homeland. Adama specializes in creating dishes with bold, complex flavors that are sure to delight any palate.",
+    "chef_picture": "https://example.com/adama-diallo.jpg",
+    "country": "African",
+    "catalog_id": "8",
+    "years_of_experience": 15,
+    "number_of_recipes": 50,
+    "likes": 13500,
+    "chef_recipes": [
+      {
+        "recipe_name": "Jollof Rice",
+        "cooking_method": "Stovetop",
+        "ingredients": [
+          "2 cups long-grain white rice",
+          "4 tablespoons vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 teaspoon smoked paprika",
+          "1/2 teaspoon cayenne pepper",
+          "1/2 teaspoon ground cinnamon",
+          "1/4 teaspoon ground nutmeg",
+          "1 can (14.5 ounces) diced tomatoes",
+          "2 cups chicken broth",
+          "1 red bell pepper, chopped",
+          "1 green bell pepper, chopped",
+          "Salt and black pepper to taste"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Poulet Yassa",
+        "cooking_method": "Grilling",
+        "ingredients": [
+          "4 bone-in, skin-on chicken legs",
+          "2 onions, thinly sliced",
+          "1/2 cup lemon juice",
+          "1/4 cup vegetable oil",
+          "3 cloves garlic, minced",
+          "1 tablespoon Dijon mustard",
+          "1 tablespoon grated fresh ginger",
+          "1 tablespoon chopped fresh thyme",
+          "1/2 teaspoon cayenne pepper",
+          "Salt and black pepper to taste"
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chef_name": "Fatima Hassan",
+    "chef_description": "Chef Fatima Hassan is a skilled African chef, known for her innovative and traditional dishes. Her passion for cooking began when she was a child, growing up in a family of chefs. She has worked in top restaurants across Africa and has won several awards for her cooking.",
+    "years_of_experience": 12,
+    "country": "African",
+    "catalog_id": "8",
+    "photo_url": "https://example.com/chefs/fatima_hassan.jpg",
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Jollof Rice",
+        "cooking_method": "Boil the rice, then fry it in a tomato-based sauce with spices",
+        "ingredients": [
+          "Rice",
+          "Tomatoes",
+          "Onions",
+          "Peppers",
+          "Spices"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Fufu and Egusi Soup",
+        "cooking_method": "Boil cassava and plantains, then mash them into a dough. Serve with a soup made from ground melon seeds, vegetables, and spices.",
+        "ingredients": [
+          "Cassava",
+          "Plantains",
+          "Melon seeds",
+          "Vegetables",
+          "Spices"
+        ],
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "chef_name": "Kwame Asante",
+    "chef_description": "Chef Kwame Asante is a Ghanaian chef who grew up cooking with his family in Ghana. He is passionate about showcasing African cuisine and culture through his cooking. He has worked in various restaurants in West Africa and Europe, and is now based in the United States.",
+    "country": "African",
+    "catalog_id": "8",
+    "years_of_experience": 12,
+    "photo_url": "https://example.com/chef-kwame-asante.jpg",
+    "chef_recipes": [
+      {
+        "recipe_name": "Jollof Rice",
+        "cooking_method": "Stove top",
+        "ingredients": [
+          "2 cups rice",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 teaspoon ginger, minced",
+          "1 teaspoon smoked paprika",
+          "1 teaspoon curry powder",
+          "1 teaspoon thyme",
+          "1 can diced tomatoes",
+          "2 cups chicken broth",
+          "1 scotch bonnet pepper",
+          "1/4 cup vegetable oil",
+          "Salt and pepper, to taste"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Suya",
+        "cooking_method": "Grill",
+        "ingredients": [
+          "1 pound beef, sliced thin",
+          "1/4 cup groundnut oil",
+          "1 tablespoon cayenne pepper",
+          "1 tablespoon smoked paprika",
+          "1 tablespoon ginger powder",
+          "1 tablespoon garlic powder",
+          "1 tablespoon onion powder",
+          "1 tablespoon dried thyme",
+          "1 tablespoon brown sugar",
+          "1 teaspoon salt"
+        ],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Pounded Yam and Egusi Soup",
+        "cooking_method": "Stove top",
+        "ingredients": [
+          "1 yam, peeled and chopped",
+          "2 cups water",
+          "1 cup egusi (ground melon seeds)",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can tomato sauce",
+          "2 cups chicken broth",
+          "1 teaspoon ground crayfish",
+          "1 teaspoon smoked paprika",
+          "1 scotch bonnet pepper",
+          "Salt and pepper, to taste"
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "chef_name": "Fatoumata Diop",
+    "chef_description": "Fatoumata is a talented African chef who grew up in Senegal and learned to cook traditional West African dishes from her grandmother. She is passionate about sharing the flavors and aromas of her homeland with the world.",
+    "years_of_experience": 10,
+    "country": "African",
+    "catalog_id": "8",
+    "photo_url": "https://example.com/chef_photos/fatoumata_diop.jpg",
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Thieboudienne",
+        "cooking_method": "Boiling, frying, and baking",
+        "ingredients": [
+          "Fish",
+          "Rice",
+          "Tomatoes",
+          "Carrots",
+          "Eggplant",
+          "Cabbage",
+          "Chilies",
+          "Onions"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Yassa Poulet",
+        "cooking_method": "Marinating, frying, and simmering",
+        "ingredients": [
+          "Chicken",
+          "Lemons",
+          "Onions",
+          "Garlic",
+          "Chilies",
+          "Mustard",
+          "Thyme",
+          "Bay leaves"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Jollof Rice",
+        "cooking_method": "Boiling and simmering",
+        "ingredients": [
+          "Rice",
+          "Tomatoes",
+          "Peppers",
+          "Onions",
+          "Garlic",
+          "Ginger",
+          "Thyme",
+          "Bay leaves"
+        ],
+        "rating": 4.7
+      }
+    ]
+  }
+]
